@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+A tool that downloads and lists the n oldest issues from a GitHub project.
 
 ## Installation
 
